@@ -18,7 +18,7 @@
 
 ## ⭐ Informações sobre minha conta GitHub
 <div>
-  <a href="https://github.com/guiihenrikee">
+  <a href="https://github.com/atanazio95">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=atanazio95&show_icons=true&theme=tokyonight"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atanazio95&layout=compact&theme=tokyonight"/>
 </div>
