@@ -14,7 +14,7 @@
 
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="40" height="40"/> </a>
 <a href="https://pt.wikipedia.org/wiki/HTML5" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="html" width="40" height="40"/> </a>
-alt="css" width="40" height="40"/> </a>
+
 ---
 
 ## ⭐ Informações sobre minha conta GitHub
