@@ -1,7 +1,7 @@
 ### Olá, meu nome é <strong>Jeorge Atanazio!</strong>     [![atanazio95]( https://img.shields.io/github/followers/atanazio95?label=follow&style=social)](https://github.com/atanazio95)
 
 
-💼 Trabalhando como Software developer mobile na Iteris Consultoria e Software Ltda .
+💼 Trabalhando como Software developer mobile no Grupo Fasitec .
 
 
 <p><a href="https://github.com/atanazio95" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/jeorge-atanazio-69002287/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
